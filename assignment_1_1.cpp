@@ -58,6 +58,7 @@ int main(int argc, char **argv) {
     } else {
         cout << "Unable to open file \n";
     }
+    
     inf.close();
     outf.close();
 
